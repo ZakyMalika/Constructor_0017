@@ -9,7 +9,7 @@ public:
     int id;
     string nama;
 
-    void setID();
+    void setID(); 
 
     void printALL();
     mahasiswa(string pnama)
