@@ -30,3 +30,8 @@ void mahasiswa::setID()
 {
     id = ++nim;
 }
+
+void mahasiswa::printALL()
+{
+    
+}
