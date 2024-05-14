@@ -34,6 +34,7 @@ void angka::cetakData()
 {
     for(int i=1; i<=panjang; i++)
     {
-        
+        cout << i << " = ";
+        cin >> arr[i];
     }
 }
