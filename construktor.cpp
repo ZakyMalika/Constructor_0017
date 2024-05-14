@@ -14,8 +14,12 @@ class mahasiswa
         nim = 0;
         nama = " ";
     };
-    mahasiswa(int iNImi)
+    mahasiswa(int iNim)
     {
         nim = iNim;
+    };
+    mahasiswa(string iNama)
+    {
+        nama = iNama;
     };
 };
