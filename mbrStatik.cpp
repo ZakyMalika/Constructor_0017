@@ -5,7 +5,7 @@ using namespace std;
 class mahasiswa
 {
 public:
-    static  int nim;
+    static int nim;
     int id;
     string nama;
 
@@ -19,7 +19,7 @@ public:
     }
 };
 
-int mahasiswa::nim = 113; 
+int mahasiswa::nim = 113;
 
 void mahasiswa::printALL()
 {
@@ -30,5 +30,8 @@ void mahasiswa::printALL()
 
 int main()
 {
-    
+    mahasiswa mhs1("Lia Kurnia");
+    mahasiswa mhs2("Asroni");
+    mahasiswa mhs3("Andi Kurniawan");
+    mahasiswa mhs4("Joko Purbo");
 }
