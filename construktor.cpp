@@ -11,6 +11,7 @@ class mahasiswa
     public:
     mahasiswa()
     {
-        
+        nim = 0;
+        nama = " ";
     }
 };
