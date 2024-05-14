@@ -23,5 +23,6 @@ int mahasiswa::nim = 113;
 
 void mahasiswa::printALL()
 {
-
+    cout << "ID     = " << id << endl;
+    cout << "Nama   = " << nama << endl;
 };
