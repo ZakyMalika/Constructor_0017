@@ -34,3 +34,8 @@ class mahasiswa
         cout << endl;
     };
 };
+
+int main()
+{
+    
+}
