@@ -14,5 +14,6 @@ public:
     mahasiswa(string pnama)
     {
         nama = pnama;
+        setID();
     }
 };
