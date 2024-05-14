@@ -22,4 +22,13 @@ class mahasiswa
     {
         nama = iNama;
     };
+    mahasiswa(int iNim, string iNama)
+    {
+        nim = iNim;
+        nama = iNama;
+    };
+    void cetak()
+    {
+        
+    }
 };
