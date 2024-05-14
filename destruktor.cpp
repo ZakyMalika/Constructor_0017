@@ -14,3 +14,10 @@ public:
     void isiData();
 };
 
+//Definisi member fungsion
+angka::angka(int i)//constructor
+{
+    panjang = i;
+    arr = new int[i];
+    isiData();
+}
