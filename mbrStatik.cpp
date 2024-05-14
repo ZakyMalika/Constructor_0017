@@ -11,5 +11,8 @@ public:
     void setID();
 
     void printALL();
-    
+    mahasiswa(string pnama)
+    {
+        nama = pnama;
+    }
 };
