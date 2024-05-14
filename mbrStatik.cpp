@@ -19,4 +19,4 @@ public:
     }
 };
 
-int mahasiswa::nim = 113;
+int mahasiswa::nim = 113; 
