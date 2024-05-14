@@ -5,5 +5,5 @@ using namespace std;
 class mahasiswa
 {
     private:
-    static int nim;
+    static int nim; 
 };
